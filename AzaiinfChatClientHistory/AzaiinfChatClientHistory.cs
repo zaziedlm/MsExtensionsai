@@ -1,4 +1,4 @@
-﻿// See https://www.nuget.org/packages/Microsoft.Extensions.AI.AzureAIInference/#readme-body-tab
+// See https://www.nuget.org/packages/Microsoft.Extensions.AI.AzureAIInference/#readme-body-tab
 // https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/
 using Azure;
 using Microsoft.Extensions.AI;

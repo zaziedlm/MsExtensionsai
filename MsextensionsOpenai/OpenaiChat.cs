@@ -1,4 +1,4 @@
-﻿using OpenAI;
+using OpenAI;
 using Microsoft.Extensions.AI;
 using Common;
 
